@@ -3,7 +3,7 @@
 // copyright holder including that found in the LICENSE file.
 
 // Package ttdefs defines the core Safecast API data structures
-package ttdefs
+package safecast
 
 // Loc is Device Location Data
 type Loc struct {
